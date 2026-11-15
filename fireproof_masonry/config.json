@@ -1,0 +1,8 @@
+{
+  "Id": "fireproof_masonry",
+  "Name": "Fireproof Masonry",
+  "Author": "wonkotron",
+  "Version": "0.1",
+  "SupportedGameVersions": [ "0.14" ],
+  "LoadOrder": 100
+}
